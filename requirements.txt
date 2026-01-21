@@ -1,0 +1,10 @@
+faiss-cpu
+sentence-transformers
+datasets
+pandas
+numpy
+torch
+langchain-groq
+ragas
+python-dotenv
+streamlit
